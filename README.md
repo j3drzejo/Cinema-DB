@@ -1,12 +1,12 @@
-Cinema Database
+# Cinema Database
 
 The "Kino" database schema aims to facilitate the management of cinema operations, including customer bookings, movie screenings, ticket sales, and movie reviews. It provides a structured approach to organizing data related to cinema management.
 Database Schema
 
-ER DIAGRAM
+# ER DIAGRAM
 ![alt text](https://github.com/j3drzejo/Cinema-DB/blob/main/er.PNG)
 
-The database schema consists of the following tables:
+# The database schema consists of the following tables:
 
     Klienci: Stores information about customers, including their names, surnames, and birth dates.
     Sale: Contains details about cinema halls, such as hall names and seat capacities.
